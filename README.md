@@ -2,7 +2,7 @@
 
 A simple and efficient YouTube Video and Playlist downloader with a graphical user interface, powered by `yt-dlp`.
 
-![YouTube Downloader](image.png)
+![YouTube Downloader](/assets/image.png)
 
 ## Features
 
