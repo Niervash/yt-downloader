@@ -2,9 +2,10 @@
 
 A simple and efficient YouTube Video and Playlist downloader with a graphical user interface, powered by `yt-dlp`.
 
-![YouTube Downloader](file.png)
+![YouTube Downloader](image.png)
 
 ## Features
+
 - 📺 Download single videos or entire playlists.
 - 🛠️ Select from multiple available resolutions and formats.
 - 📂 Custom download directory selection.
@@ -12,17 +13,20 @@ A simple and efficient YouTube Video and Playlist downloader with a graphical us
 - 🎨 Modern Tkinter-based interface.
 
 ## Prerequisites
+
 Before running the application, ensure you have Python installed. You also need `ffmpeg` installed on your system if you want to merge high-quality video and audio streams (optional but recommended).
 
 ## Installation
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/yourusername/Yt_downloader-GUI.git
    cd "Yt_downloader GUI"
    ```
 
 2. **Create a virtual environment (optional but recommended):**
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -34,7 +38,9 @@ Before running the application, ensure you have Python installed. You also need 
    ```
 
 ## Usage
+
 Run the application using:
+
 ```bash
 python app.py
 ```
@@ -50,6 +56,7 @@ python app.py
 To create a standalone `.exe` file for Windows:
 
 1. Install PyInstaller:
+
    ```bash
    pip install pyinstaller
    ```
@@ -64,4 +71,5 @@ The executable will be generated in the `dist/` folder.
 > **Note:** Since this app depends on `yt-dlp`, the simplest way to ensure it works on other machines is to make sure `yt-dlp` is bundled or the user has it. The current setup expects `yt-dlp` to be accessible.
 
 ## License
+
 MIT License. Feel free to use and modify!
