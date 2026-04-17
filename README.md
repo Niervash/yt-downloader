@@ -21,8 +21,8 @@ Before running the application, ensure you have Python installed. You also need 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Yt_downloader-GUI.git
-   cd "Yt_downloader GUI"
+   git clone https://github.com/Niervash/yt-downloader.git
+   cd "yt-downloader"
    ```
 
 2. **Create a virtual environment (optional but recommended):**
