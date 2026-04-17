@@ -63,7 +63,7 @@ To create a standalone `.exe` file for Windows:
 
 2. Run the build command:
    ```bash
-   pyinstaller --noconfirm --onefile --windowed --add-data "assets;assets" --icon "assets/file.png" --name "YTDownloader" app.py
+   pyinstaller --noconfirm --onefile --windowed --add-data "assets;assets" --icon "assets/image.png" --name "YTDownloader" app.py
    ```
 
 The executable will be generated in the `dist/` folder.
