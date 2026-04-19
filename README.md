@@ -72,4 +72,4 @@ The executable will be generated in the `dist/` folder.
 
 ## License
 
-MIT License. Feel free to use and modify!
+ Feel free to use and modify!
